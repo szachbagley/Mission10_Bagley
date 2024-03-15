@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F26184D-B263-4594-8BE6-23E16BB2B133}|Mission10API.csproj|c:\\users\\szach\\source\\repos\\mission10_bagley\\backend\\mission10api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F26184D-B263-4594-8BE6-23E16BB2B133}|Mission10API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F26184D-B263-4594-8BE6-23E16BB2B133}|Mission10API.csproj|c:\\users\\szach\\source\\repos\\mission10_bagley\\backend\\mission10api\\controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F26184D-B263-4594-8BE6-23E16BB2B133}|Mission10API.csproj|solutionrelative:controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F26184D-B263-4594-8BE6-23E16BB2B133}|Mission10API.csproj|c:\\users\\szach\\source\\repos\\mission10_bagley\\backend\\mission10api\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F26184D-B263-4594-8BE6-23E16BB2B133}|Mission10API.csproj|solutionrelative:data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F26184D-B263-4594-8BE6-23E16BB2B133}|Mission10API.csproj|c:\\users\\szach\\source\\repos\\mission10_bagley\\backend\\mission10api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F26184D-B263-4594-8BE6-23E16BB2B133}|Mission10API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F26184D-B263-4594-8BE6-23E16BB2B133}|Mission10API.csproj|c:\\users\\szach\\source\\repos\\mission10_bagley\\backend\\mission10api\\data\\efbowlingleaguerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F26184D-B263-4594-8BE6-23E16BB2B133}|Mission10API.csproj|solutionrelative:data\\efbowlingleaguerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F26184D-B263-4594-8BE6-23E16BB2B133}|Mission10API.csproj|c:\\users\\szach\\source\\repos\\mission10_bagley\\backend\\mission10api\\data\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F26184D-B263-4594-8BE6-23E16BB2B133}|Mission10API.csproj|solutionrelative:data\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F26184D-B263-4594-8BE6-23E16BB2B133}|Mission10API.csproj|c:\\users\\szach\\source\\repos\\mission10_bagley\\backend\\mission10api\\data\\ibowlingleaguerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F26184D-B263-4594-8BE6-23E16BB2B133}|Mission10API.csproj|solutionrelative:data\\ibowlingleaguerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F26184D-B263-4594-8BE6-23E16BB2B133}|Mission10API.csproj|c:\\users\\szach\\source\\repos\\mission10_bagley\\backend\\mission10api\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F26184D-B263-4594-8BE6-23E16BB2B133}|Mission10API.csproj|solutionrelative:data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BowlingController.cs",
+              "DocumentMoniker": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\Controllers\\BowlingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlingController.cs",
+              "ToolTip": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\Controllers\\BowlingController.cs",
+              "RelativeToolTip": "Controllers\\BowlingController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T16:34:21.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBowlingLeagueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\Data\\IBowlingLeagueRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IBowlingLeagueRepository.cs",
+              "ToolTip": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\Data\\IBowlingLeagueRepository.cs",
+              "RelativeToolTip": "Data\\IBowlingLeagueRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T16:16:52.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwB0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T16:08:39.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T16:06:52.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BowlingLeagueContext.cs",
+              "DocumentMoniker": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\Data\\BowlingLeagueContext.cs",
+              "RelativeDocumentMoniker": "Data\\BowlingLeagueContext.cs",
+              "ToolTip": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\Data\\BowlingLeagueContext.cs",
+              "RelativeToolTip": "Data\\BowlingLeagueContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T16:03:38.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\Data\\Bowler.cs",
+              "RelativeDocumentMoniker": "Data\\Bowler.cs",
+              "ToolTip": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\Data\\Bowler.cs",
+              "RelativeToolTip": "Data\\Bowler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:37:49.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFBowlingLeagueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\Data\\EFBowlingLeagueRepository.cs",
+              "RelativeDocumentMoniker": "Data\\EFBowlingLeagueRepository.cs",
+              "ToolTip": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\Data\\EFBowlingLeagueRepository.cs",
+              "RelativeToolTip": "Data\\EFBowlingLeagueRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T16:27:10.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\Data\\Team.cs",
+              "RelativeDocumentMoniker": "Data\\Team.cs",
+              "ToolTip": "C:\\Users\\szach\\source\\repos\\Mission10_Bagley\\backend\\Mission10API\\Data\\Team.cs",
+              "RelativeToolTip": "Data\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:55:07.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
